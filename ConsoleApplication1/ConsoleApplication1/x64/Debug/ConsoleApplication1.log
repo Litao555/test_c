@@ -1,0 +1,19 @@
+﻿  ConsoleApplication1.cpp
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): warning C4091: “typedef ”: 没有声明变量时忽略“d”的左侧
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 1 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 2 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 3 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 4 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 5 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 6 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 7 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4477: “sscanf”: 格式字符串“%02d”需要类型“int *”的参数，但可变参数 8 拥有了类型“unsigned char *”
+  c:\users\29572\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): note: 请考虑在格式字符串中使用“%hhd”
+  ConsoleApplication1.vcxproj -> C:\Users\29572\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
